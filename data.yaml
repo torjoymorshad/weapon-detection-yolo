@@ -1,0 +1,14 @@
+
+path: C:/Users/golam/weapon-detection-yolo/dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 4
+
+names:
+  0: Handgun
+  1: Knife
+  2: Rifle
+  3: Sword
